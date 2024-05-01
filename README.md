@@ -39,3 +39,48 @@ I'm Vivek, currently studying Computer Science with a focus on Blockchain at GLA
 
 ## 🛠 Skills
 JavaScript, HTML, CSS, Blockchain Development, Python, React, Competitive Programming, and more ...
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd Ecc
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
